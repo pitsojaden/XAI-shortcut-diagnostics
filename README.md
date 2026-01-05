@@ -15,7 +15,7 @@ The experiments focus on:
 This repository is intended as a diagnostic study rather than a benchmarking leaderboard.
 
 ## Notebook Contents
-The main notebook (`XAI.ipynb`) includes:
+The main notebook (`XAI experiment.ipynb`) includes:
 - Dataset generation or preprocessing
 - Model training under varying shortcut conditions
 - Attribution extraction using Grad-CAM
